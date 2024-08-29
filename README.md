@@ -12,7 +12,6 @@
   <a href="mailto:achinthaperis64@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d10000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-<br><br>  
      <a href="https://www.linkedin.com/in/achintha-peiris-9a61a129b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
