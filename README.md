@@ -3,12 +3,10 @@
 </h1>
 
 <h3 align="center">A passionate software Engineer Undergraduate </h3>
-    <br><br>
 <div align="center">
  🌱 I’m currently learning **Angular, NestJS**
 💬 Ask me about **Node.js, React, Next.js ,Java , React-Native**
  </div>
- <br><br>
  
  <div align="center"> 
   <a href="mailto:achinthaperis64@gmail.com">
